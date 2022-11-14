@@ -1,1 +1,1 @@
-# Simulador de rendo e undo do arquivo de log do banco de dados
+# Simulador de redo do arquivo de log do banco de dados
